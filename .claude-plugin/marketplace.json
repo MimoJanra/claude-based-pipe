@@ -1,4 +1,8 @@
 {
+  "name": "run-based-pipeline",
+  "owner": {
+    "name": "Glawk"
+  },
   "plugins": [
     {
       "name": "run-based-pipeline",
