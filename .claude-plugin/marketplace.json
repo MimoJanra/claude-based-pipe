@@ -6,7 +6,7 @@
   "plugins": [
     {
       "name": "run-based-pipeline",
-      "source": "."
+      "source": "./plugins/run-based-pipeline"
     }
   ]
 }
