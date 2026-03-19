@@ -1,19 +1,8 @@
 {
   "plugins": [
     {
-      "id": "run-based-pipeline",
-      "name": "Run-Based Multi-Agent Execution Pipeline",
-      "description": "Run-Based Multi-Agent Execution Pipeline for structured, auditable task delivery",
-      "author": "Glawk",
-      "skills": [
-        "skills/run-based-pipeline",
-        "skills/pipe"
-      ],
-      "agents": [
-        "agents/pipeline-planner.md",
-        "agents/pipeline-developer.md",
-        "agents/pipeline-reviewer.md"
-      ]
+      "name": "run-based-pipeline",
+      "source": "."
     }
   ]
 }
