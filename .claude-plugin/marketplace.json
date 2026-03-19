@@ -4,7 +4,7 @@
       "id": "run-based-pipeline",
       "name": "Run-Based Multi-Agent Execution Pipeline",
       "description": "Run-Based Multi-Agent Execution Pipeline for structured, auditable task delivery",
-      "author": "MimoJanra",
+      "author": "Glawk",
       "skills": [
         "skills/run-based-pipeline",
         "skills/pipe"
