@@ -1,23 +1,20 @@
 {
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "run-based-pipeline",
+  "description": "Run-Based Multi-Agent Execution Pipeline for structured, auditable task delivery",
   "owner": {
     "name": "Glawk"
-  },
-  "metadata": {
-    "description": "Run-Based Multi-Agent Execution Pipeline for structured, auditable task delivery",
-    "version": "1.0.0",
-    "pluginRoot": "./plugins"
   },
   "plugins": [
     {
       "name": "run-based-pipeline",
-      "source": "./plugins/run-based-pipeline",
       "description": "Run-Based Multi-Agent Execution Pipeline for structured, auditable task delivery",
-      "version": "1.0.0",
-      "author": {
-        "name": "Glawk"
-      },
-      "category": "productivity"
+      "category": "productivity",
+      "source": {
+        "source": "github",
+        "repo": "MimoJanra/claude-based-pipe",
+        "path": "plugins/run-based-pipeline"
+      }
     }
   ]
 }
