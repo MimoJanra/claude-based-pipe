@@ -3,10 +3,21 @@
   "owner": {
     "name": "Glawk"
   },
+  "metadata": {
+    "description": "Run-Based Multi-Agent Execution Pipeline for structured, auditable task delivery",
+    "version": "1.0.0",
+    "pluginRoot": "./plugins"
+  },
   "plugins": [
     {
       "name": "run-based-pipeline",
-      "source": "./plugins/run-based-pipeline"
+      "source": "./plugins/run-based-pipeline",
+      "description": "Run-Based Multi-Agent Execution Pipeline for structured, auditable task delivery",
+      "version": "1.0.0",
+      "author": {
+        "name": "Glawk"
+      },
+      "category": "productivity"
     }
   ]
 }
