@@ -10,8 +10,6 @@ description: |
   or "audit trail".
 ---
 
-Invoke the `pipeline-planner` agent with the following task:
-
-$TASK
+Invoke the `pipeline-planner` agent with the user's task from the current conversation.
 
 The agent will handle all planning, execution coordination, and artifact management.
