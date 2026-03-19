@@ -1,5 +1,4 @@
 {
-  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "run-based-pipeline",
   "description": "Run-Based Multi-Agent Execution Pipeline for structured, auditable task delivery",
   "owner": {
@@ -10,11 +9,7 @@
       "name": "run-based-pipeline",
       "description": "Run-Based Multi-Agent Execution Pipeline for structured, auditable task delivery",
       "category": "productivity",
-      "source": {
-        "source": "github",
-        "repo": "MimoJanra/claude-based-pipe",
-        "path": "plugins/run-based-pipeline"
-      }
+      "source": "./plugins/run-based-pipeline"
     }
   ]
 }
