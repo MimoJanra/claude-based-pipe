@@ -8,6 +8,11 @@
       "skills": [
         "skills/run-based-pipeline",
         "skills/pipe"
+      ],
+      "agents": [
+        "agents/pipeline-planner.md",
+        "agents/pipeline-developer.md",
+        "agents/pipeline-reviewer.md"
       ]
     }
   ]

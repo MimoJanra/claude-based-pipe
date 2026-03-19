@@ -1,0 +1,7 @@
+{
+  "run_id": "{run_id}",
+  "status": "waiting_for_approval",
+  "created_at": "{timestamp}",
+  "current_step": null,
+  "last_updated_at": "{timestamp}"
+}
