@@ -6,7 +6,8 @@
       "description": "Run-Based Multi-Agent Execution Pipeline for structured, auditable task delivery",
       "author": "Glawk",
       "skills": [
-        "skills/run-based-pipeline"
+        "skills/run-based-pipeline",
+        "skills/pipe"
       ]
     }
   ]
