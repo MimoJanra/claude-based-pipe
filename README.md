@@ -80,6 +80,15 @@ The skill triggers automatically when you say **implement**, **build**, **create
 
 ---
 
+## Commands
+
+| Command | Description |
+|---|---|
+| `/pipe <task>` | Start a new run for the given task |
+| `/pipe resume <run-id>` | Resume an existing run by its ID |
+
+---
+
 ## Step statuses
 
 ```
