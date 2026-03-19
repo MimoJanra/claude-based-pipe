@@ -46,7 +46,7 @@ Add to `~/.claude/settings.json`:
     "run-based-pipeline": {
       "source": {
         "source": "github",
-        "repo": "Glawk/run-based-pipeline"
+        "repo": "MimoJanra/claude-based-pipe"
       },
       "autoUpdate": true
     }
