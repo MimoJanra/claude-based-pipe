@@ -59,6 +59,14 @@ Add to `~/.claude/settings.json`:
 
 Restart Claude Code.
 
+Then run once to install the `/pipe` shortcut:
+
+```
+/run-based-pipeline:setup
+```
+
+Restart Claude Code again.
+
 ---
 
 ## Usage
