@@ -31,7 +31,7 @@ artifacts/
 Open a Claude Code session and say:
 
 ```
-Install this plugin: https://github.com/Glawk/run-based-pipeline
+Install this plugin: https://github.com/MimoJanra/claude-based-pipe
 ```
 
 Claude will edit your `~/.claude/settings.json` automatically.
